@@ -5,8 +5,9 @@ import SongDetail from './SongDetail';
 
 const App = () => {
 	return (
-		<div>
-			<h1 className="ui center aligned header">InfoMusic</h1>
+		<div className="ui container">
+			<h1 className="ui center aligned header">Songs Info</h1>
+			<br />
 			<div className="ui container grid">
 				<div className="ui row">
 					<div className="column eight wide">
