@@ -8,6 +8,8 @@ const App = () => {
 		<div className="ui container">
 			<h1 className="ui center aligned header">Songs Info</h1>
 			<br />
+			<p>This is a very basic app which uses redux to store a list of songs and the currently selected song.</p>
+			<br></br>
 			<div className="ui container grid">
 				<div className="ui row">
 					<div className="column eight wide">
